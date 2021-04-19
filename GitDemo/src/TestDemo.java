@@ -7,5 +7,7 @@ public class TestDemo {
 	public void sum() {
 		System.out.println("Sum method is added");
 	}
-
+	public void enter() {
+		System.out.println("enter url method is added");
+	}
 }
